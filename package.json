@@ -1,0 +1,22 @@
+{
+  "name": "chooper",
+  "version": "1.0.0",
+  "description": "hybrid bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JianweiWangs/Chopper-Js.git"
+  },
+  "keywords": [
+    "hybrid"
+  ],
+  "author": "JianweiWangs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JianweiWangs/Chopper-Js/issues"
+  },
+  "homepage": "https://github.com/JianweiWangs/Chopper-Js#readme"
+}
