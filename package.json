@@ -1,5 +1,5 @@
 {
-  "name": "chopper",
+  "name": "@jianweiwangs/chopper",
   "version": "1.0.0",
   "description": "hybrid bridge",
   "main": "index.js",
